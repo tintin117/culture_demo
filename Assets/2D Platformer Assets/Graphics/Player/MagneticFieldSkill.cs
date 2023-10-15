@@ -5,7 +5,25 @@ using UnityEngine;
 public class MagneticFieldSkill : MonoBehaviour
 {
     public float pushForce = 10f;
-    public float radius = 5f;
+    public float radius = 1f;
+
+    private GameObject sprite;
+    private GameObject sprite2;
+
+    void Start()
+    {
+        sprite = GameObject.Find("Magnetic_sprite1");
+        sprite2 = GameObject.Find("Magnetic_sprite2");
+        // sprite.SetActive(false);
+        sprite2.SetActive(false);
+    }
+
+    IEnumerator PlaySprite() {
+        sprite.SetActive(false);
+        sprite2.SetActive(true);
+        yield return new WaitForSeconds(1);
+        sprite2.SetActive(false);//Notification
+    }
 
     void Update()
     {
@@ -26,6 +44,8 @@ public class MagneticFieldSkill : MonoBehaviour
                     }
                 }
             }
+            StartCoroutine(PlaySprite());
+            
         }
     }
 
