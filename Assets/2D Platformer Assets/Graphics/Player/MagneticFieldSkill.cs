@@ -1,7 +1,10 @@
 using UnityEngine;
 using UnityEngine.U2D;
 using static UnityEditor.Searcher.SearcherWindow.Alignment;
+using UnityEngine.U2D;
+using static UnityEditor.Searcher.SearcherWindow.Alignment;
 
+public class ForceFieldController : MonoBehaviour
 public class ForceFieldController : MonoBehaviour
 {
     public GameObject forceFieldPrefab; // Assign the force field prefab in the Unity Editor
