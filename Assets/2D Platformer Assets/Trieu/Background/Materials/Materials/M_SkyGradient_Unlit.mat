@@ -76,7 +76,6 @@ Material:
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
     - _TintColor: {r: 0.09852261, g: 0.76251847, b: 0.7735849, a: 1}
   m_BuildTextureStacks: []
-<<<<<<< HEAD
 --- !u!114 &5556583167462507177
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -90,5 +89,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 7
-=======
->>>>>>> main
