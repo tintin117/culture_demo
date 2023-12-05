@@ -130,7 +130,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: a08729041a9f1e6429d97feaec49f2df
+    spriteID: d14782e526757304a8148e8da647e510
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -150,7 +150,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: cdee7541fc43cab41a41f9f40dae2189
+    spriteID: 6a39667994d72b045887cef2606a51ba
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -170,7 +170,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: a8ef459e479db5849bcd135a81abc14d
+    spriteID: 405c8946298ad0445868abddf20592d1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -190,7 +190,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 8851b22e619dae340a26c0de6277af7d
+    spriteID: b94832a2d96fc21469e4d08d644e47ef
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -210,7 +210,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: d57f63e9589c4ee4587a613c8686008e
+    spriteID: ee707c75776e8d940883102e51e9285d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -230,7 +230,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: 1852a0057d124124da2d967870b138cb
+    spriteID: b9296ac30b64e2a4f8956d9babd1ef63
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -250,7 +250,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: aec21716800ed664aa47393da28fedc4
+    spriteID: a2266a0d04d15884eaf8ecf7145ebdc6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -270,7 +270,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: 02efd635d2ab03441ae2d764c01ebf9f
+    spriteID: 98c5e408f73eaa94a963796856f852d7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -290,7 +290,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: 0e1f0739d0e47b44b976883cfa9384d3
+    spriteID: 85d72e7779a2e6d4aa92529a70c26cca
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -315,7 +315,7 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: a08729041a9f1e6429d97feaec49f2df
+      spriteId: d14782e526757304a8148e8da647e510
     - name: Samurai Merchant_Frame_1
       frameIndex: 1
       cellRect:
@@ -323,7 +323,7 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: cdee7541fc43cab41a41f9f40dae2189
+      spriteId: 6a39667994d72b045887cef2606a51ba
     - name: Samurai Merchant_Frame_2
       frameIndex: 2
       cellRect:
@@ -331,7 +331,7 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: a8ef459e479db5849bcd135a81abc14d
+      spriteId: 405c8946298ad0445868abddf20592d1
     - name: Samurai Merchant_Frame_3
       frameIndex: 3
       cellRect:
@@ -339,7 +339,7 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 8851b22e619dae340a26c0de6277af7d
+      spriteId: b94832a2d96fc21469e4d08d644e47ef
     - name: Samurai Merchant_Frame_4
       frameIndex: 4
       cellRect:
@@ -347,7 +347,7 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: d57f63e9589c4ee4587a613c8686008e
+      spriteId: ee707c75776e8d940883102e51e9285d
     - name: Samurai Merchant_Frame_5
       frameIndex: 5
       cellRect:
@@ -355,7 +355,7 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 1852a0057d124124da2d967870b138cb
+      spriteId: b9296ac30b64e2a4f8956d9babd1ef63
     - name: Samurai Merchant_Frame_6
       frameIndex: 6
       cellRect:
@@ -363,7 +363,7 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: aec21716800ed664aa47393da28fedc4
+      spriteId: a2266a0d04d15884eaf8ecf7145ebdc6
     - name: Samurai Merchant_Frame_7
       frameIndex: 7
       cellRect:
@@ -371,7 +371,7 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 02efd635d2ab03441ae2d764c01ebf9f
+      spriteId: 98c5e408f73eaa94a963796856f852d7
     - name: Samurai Merchant_Frame_8
       frameIndex: 8
       cellRect:
@@ -379,7 +379,7 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 0e1f0739d0e47b44b976883cfa9384d3
+      spriteId: 85d72e7779a2e6d4aa92529a70c26cca
     linkedCells: []
     parentIndex: -1
   platformSettings: []
