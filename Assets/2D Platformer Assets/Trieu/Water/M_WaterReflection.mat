@@ -63,6 +63,7 @@ Material:
     m_Colors:
     - _Color: {r: 0.33236918, g: 0.63695604, b: 0.7264151, a: 0.70980394}
   m_BuildTextureStacks: []
+<<<<<<< HEAD
 --- !u!114 &8760796859890452274
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -76,3 +77,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 7
+=======
+>>>>>>> main
